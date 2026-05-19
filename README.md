@@ -165,7 +165,7 @@ Displays the final predicted distribution of ticket categories and priority leve
 pip install -r requirements.txt
 
 # 2. Launch Jupyter Notebook
-jupyter notebook FUTURE_ML_02_Ticket_Classification.ipynb
+jupyter notebook Ticket_Classification.ipynb
 ```
 
 ---
