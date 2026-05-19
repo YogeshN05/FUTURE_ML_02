@@ -23,7 +23,7 @@ FUTURE_ML_02/
 │   ├── 06_confusion_matrix_priority.png
 │   ├── 07_predicted_distributions.png
 │   └── classified_tickets.csv          # Full classified output
-├── FUTURE_ML_02_Ticket_Classification.ipynb
+├── Ticket_Classification.ipynb
 ├── requirements.txt
 └── README.md
 ```
